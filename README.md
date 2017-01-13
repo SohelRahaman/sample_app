@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby on Rails Tutorial sample application
 # Getting started
 
@@ -24,3 +25,6 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
+=======
+# sample_app
+>>>>>>> 1227529cbc343f2268e85919083c0b0780bbdf92
